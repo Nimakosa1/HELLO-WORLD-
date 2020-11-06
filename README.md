@@ -30,16 +30,16 @@ Password<p>
 
 <button> Log in
 
-</button></center>
+</button>
 
 <p> This site is <em> powered </em> by <strong> LAZEMAN WORKS® </strong></p>
 
-</select>
 
-</fieldset>
 
-</form>
 
-</body>
 
-</html>
+
+
+
+
+
