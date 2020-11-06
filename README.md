@@ -2,9 +2,9 @@
 
 <head>
 
-<titel> RHINO'S ONLINE DATING APP </title>
+<titel> RHINO'S ONLINE DATING APP 
 
-</head>
+
 
 <body>
 
