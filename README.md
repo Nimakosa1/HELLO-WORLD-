@@ -30,7 +30,7 @@ Password<p>
 
 <button> Log in
 
-</button></center
+</button></center>
 
 <p> This site is <em> powered </em> by <strong> LAZEMAN WORKS® </strong></p>
 
